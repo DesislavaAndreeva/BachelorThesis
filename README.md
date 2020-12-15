@@ -88,7 +88,7 @@ subsection.
 Phase 1: The topology is similar to the previous one. The web server has an IPv4 address of 192.168.0.103. For the purposes 
 of the example, it will be necessary for the database server to be accessible by all participants in the network.
 
-![alt text](https://github.com/DesislavaPA/BachelorThesis/blob/master/attacks-overview/xss-attack-overview.JPG?raw=true)
+![alt text](https://github.com/DesislavaPA/BachelorThesis/blob/master/attacks-overview/db-attack-overview.JPG)
 
 Phase 2: Step 1 is an attack using a pre-prepared dictionary file and username. The dictionary file is a list of common 
 passwords. We can achieve this type of attack using Metasploit and the mysql_login module. The attacked user is the standard 
